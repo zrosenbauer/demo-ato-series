@@ -26,4 +26,4 @@ You want to learn more? Feel free to [email me](mailto:zac@precognitive.io) dire
 
 ## Credits
 
-Hackathon-Starter for an awesome boilerplate I can use to test my hacking skills :smile:
+[Hackathon-Starter](https://github.com/sahat/hackathon-starter) for an awesome boilerplate I can use to test my hacking skills :smile:
