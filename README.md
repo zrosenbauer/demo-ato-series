@@ -22,4 +22,4 @@ that not only stops Credential stuffing using (much more sophisticated) similar 
 but also using Behavioral analytics and modeling to make sure not matter the use case we can tell 
 the bad guys from the good guys.
 
-[Email Me](mailto:zac@precognitive.io)
+You want to learn more? Feel free to [email me](mailto:zac@precognitive.io) directly.
