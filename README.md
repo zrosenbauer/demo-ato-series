@@ -23,3 +23,7 @@ but also using Behavioral analytics and modeling to make sure not matter the use
 the bad guys from the good guys.
 
 You want to learn more? Feel free to [email me](mailto:zac@precognitive.io) directly.
+
+## Credits
+
+Hackathon-Starter for an awesome boilerplate I can use to test my hacking skills :smile:
