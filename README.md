@@ -8,6 +8,8 @@ The code in this repo _could_ be used to run credential stuffing attacks. The co
 
 I couldn't sleep as the [State Farm](https://threatpost.com/state-farm-credential-stuffing-attack/147139/) credential stuffing Account Takeover (ATO) attack was bothering me (most security folks can relate to this). I understand larger organizations have targets on their back but I really feel credential stuffing is an attack vector that with some simple tooling (or an awesome vendor...see below :smile:) you can stop in its tracks. A large majority of the attacks I've seen are very simple in nature and I believe every company should at least have something in place.
 
+As I mentioned above I couldn't sleep so I woke up around 3am hacked this repo out in about an hour and a half (since that night I've done some clean up). This demonstrates how simple it is to commit a credential stuffing attack and other account takeover attacks (ATO). Please read through and I hope this helps your org stop credential stuffing from impacting your business and **more importantly** your users.
+
 ## What is Credential Stuffing?
 
 Let's take a look at the OWASP definition:
