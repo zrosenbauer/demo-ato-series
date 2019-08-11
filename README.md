@@ -19,16 +19,16 @@ user accounts. This is a subset of the brute force attack category: large number
 
 That feels a bit abstract, especially for the non-security types. Let's simplify this a bit, a credential stuffing attack at its core is when a fraudster takes a list of email & password combos (sometimes from another breach), tries to log in on a website and see which ones let them into the account. They then use the account(s) to commit fraud or sell them on the dark web.
 
-## How to stop ATO.
-
-WIP
-
 ## A very naive demo..
 
 WIP, but take a look at the following files/directories:
 
 - Cred Stuffer - [Link](/master/bin/cred-stuffer)
 - ATOStopper - [Link](/master/lib/ATOStopper.js)
+
+## How to stop Credential Stuffing (and other ATO).
+
+WIP
 
 ## Need Help? - Try [Precognitive](https://precognitive.com/account-takeover/?utm_source=blog&utm_medium=github&utm_campaign=cred-stuffing-simple-demo)
 
