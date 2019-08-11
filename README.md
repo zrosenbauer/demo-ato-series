@@ -1,6 +1,6 @@
 # **DISCLAIMER**
 
-The code in this repo _could_ be used to run ATO attacks. The code is super simple and there are number of tools out there that would do a better job than my late-night hacked codez. This repo is **NOT** meant to be malicous in any manner, quite the opposite. I want to show security and non-security folks how easy it is to run an ATO attack with existing developer tools (I also show you how to stop this attack).
+The code in this repo _could_ be used to run credential stuffing attacks. The code is super simple and there are a number of tools out there that would do a better job than my late-night hacked codez. This repo is **NOT** meant to be malicious in any manner, quite the opposite. I want to show security and non-security folks how easy it is to run an ATO attack with existing developer tools (I also show you how to stop this attack).
 
 # Introduction
 
@@ -17,7 +17,7 @@ user accounts. This is a subset of the brute force attack category: large number
 
 **source:** [https://www.owasp.org/index.php/Credential_stuffing](https://www.owasp.org/index.php/Credential_stuffing)
 
-That feels a bit abstract especially for the non-security types. Lets simplify this a bit, a credential stuffing attack at its core is when a fraudster takes a list of email & password combos (sometimes from another breach), trys to login on a website and see which ones let them into the account. They then use the account(s) to commit fraud or sell them on the dark web.
+That feels a bit abstract, especially for the non-security types. Let's simplify this a bit, a credential stuffing attack at its core is when a fraudster takes a list of email & password combos (sometimes from another breach), tries to log in on a website and see which ones let them into the account. They then use the account(s) to commit fraud or sell them on the dark web.
 
 ## How to stop ATO.
 
@@ -34,11 +34,11 @@ WIP, but take a look at the following files/directories:
 
 You can use a version of the naive demo to stop attacks but if you want to do more than just stop the simplest
 of attacks you should take a look at Precognitive. We've spent the last 3+ years building a platform
-that not only stops all types of credential stuffing but also utilizes behavioral analytics, native device integrations and data modeling to make sure no matter the use case we can tell the bad guys from the good guys.
+that not only stops all types of credential stuffing but also utilizes behavioral analytics, native device integrations, and data modeling to make sure no matter the use case we can tell the bad guys from the good guys.
 
 BTW if you use [Auth0](https://auth0.com/) we have an integration that will be released in the next month or so!
 
-You want to learn more? Feel free to [email me](mailto:zac@precognitive.io) directly.
+Do you want to learn more? Feel free to [email me](mailto:zac@precognitive.io) directly.
 
 ## Credits
 
