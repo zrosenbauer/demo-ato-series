@@ -33,7 +33,7 @@ WIP
 ## Need Help? - Try [Precognitive](https://precognitive.com/account-takeover/?utm_source=blog&utm_medium=github&utm_campaign=cred-stuffing-simple-demo)
 
 You can use a version of the naive demo to stop attacks but if you want to do more than just stop the simplest
-of attacks you should take a look at Precognitive. We've spent the last 3+ years building a platform
+of attacks you should take a look at [Precognitive](https://precognitive.com/account-takeover/?utm_source=blog&utm_medium=github&utm_campaign=cred-stuffing-simple-demo). We've spent the last 3+ years building a platform
 that not only stops all types of credential stuffing but also utilizes behavioral analytics, native device integrations, and data modeling to make sure no matter the use case we can tell the bad guys from the good guys.
 
 BTW if you use [Auth0](https://auth0.com/) we have an integration that will be released in the next month or so!
