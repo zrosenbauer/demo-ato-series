@@ -23,8 +23,8 @@ That feels a bit abstract, especially for the non-security types. Let's simplify
 
 WIP, but take a look at the following files/directories:
 
-- Cred Stuffer - [Link](/master/bin/cred-stuffer)
-- ATOStopper - [Link](/master/lib/ATOStopper.js)
+- Cred Stuffer - [Link](/bin/cred-stuffer)
+- ATOStopper - [Link](/lib/ATOStopper.js)
 
 ## How to stop Credential Stuffing (and other ATO).
 
