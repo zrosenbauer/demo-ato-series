@@ -4,11 +4,11 @@ The code in this repo _could_ be used to run credential stuffing attacks. The co
 
 # Introduction
 
-**NOTE:** This is a WIP. I will write up a blog post here next week. 
+**NOTE:** This is a WIP. I will write up a blog post here soon. 
 
-I couldn't sleep as the [State Farm](https://threatpost.com/state-farm-credential-stuffing-attack/147139/) credential stuffing Account Takeover (ATO) attack was bothering me (most security folks can relate to this). I understand larger organizations have targets on their back but I really feel credential stuffing is an attack vector that with some simple tooling (or an awesome vendor...see below :smile:) you can stop in its tracks. A large majority of the attacks I've seen are very simple in nature and I believe every company should at least have something in place.
+The other night, I couldn't sleep as the [State Farm](https://threatpost.com/state-farm-credential-stuffing-attack/147139/) credential stuffing Account Takeover (ATO) attack was bothering me (most security folks can relate to this). I understand larger organizations have targets on their back but I really feel credential stuffing is an attack vector that with some simple tooling (or an awesome vendor...see below :smile:) you can stop it in its tracks. A large majority of the attacks I've seen are very simple in nature and I believe every company should at least have something in place.
 
-As I mentioned above I couldn't sleep so I woke up around 3am hacked this repo out in about an hour and a half (since that night I've done some clean up). This demonstrates how simple it is to commit a credential stuffing attack and other account takeover attacks (ATO). Please read through and I hope this helps your org stop credential stuffing from impacting your business and **more importantly** your users.
+As I mentioned above I couldn't sleep so I got up that night around 3am, hacked this repo out in about an hour and a half (since that night I've done some clean up). This demonstrates how simple it is to commit a credential stuffing attack and other account takeover attacks (ATO). Please read through this README and I hope this helps your org stop credential stuffing from impacting your business and **more importantly** your users.
 
 ## What is Credential Stuffing?
 
@@ -36,9 +36,9 @@ WIP
 
 You can use a version of the naive demo to stop attacks but if you want to do more than just stop the simplest
 of attacks you should take a look at [Precognitive](https://precognitive.com/account-takeover/?utm_source=blog&utm_medium=github&utm_campaign=cred-stuffing-simple-demo). We've spent the last 3+ years building a platform
-that not only stops all types of credential stuffing but also utilizes behavioral analytics, native device integrations, and data modeling to make sure no matter the use case we can tell the bad guys from the good guys.
+that not only stops all types of credential stuffing but also utilizes behavioral analytics, native device integrations, and data modeling to stop multiple Account Takeover attack vectors.
 
-BTW if you use [Auth0](https://auth0.com/) we have an integration that will be released in the next month or so!
+**BTW** if you use [Auth0](https://auth0.com/) we have an integration that will be released in the next month or so!
 
 Do you want to learn more? Feel free to [email me](mailto:zac@precognitive.io) directly.
 
