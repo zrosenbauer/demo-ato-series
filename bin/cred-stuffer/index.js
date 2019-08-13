@@ -1,9 +1,10 @@
-'use strict';
+/* eslint-disable */
 
 const fs = require('fs');
 const util = require('util');
 const path = require('path');
 const puppeteer = require('puppeteer');
+
 const writeFile = util.promisify(fs.writeFile);
 
 const userList = require('./user_list.json');
@@ -54,6 +55,7 @@ async function testLogin (email, password) {
 
 (async () => {
   for (const email of userList) {
+    // loop through bad passwords for each email
     for (const password of badPasswords) {
       console.log(`Testing Email: ${email}`);
       await testLogin(email, password);
