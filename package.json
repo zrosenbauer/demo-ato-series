@@ -43,7 +43,7 @@
     "googleapis": "^42.0.0",
     "instagram-node": "^0.5.8",
     "ioredis": "^4.14.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lastfm": "^0.9.3",
     "lob": "^6.0.6",
     "lodash": "^4.17.15",
