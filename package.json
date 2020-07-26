@@ -75,7 +75,7 @@
     "puppeteer": "^1.19.0",
     "querystring": "^0.2.0",
     "request": "^2.88.0",
-    "stripe": "^7.6.0",
+    "stripe": "^7.15.0",
     "tumblr.js": "^2.0.2",
     "twilio": "^3.33.3",
     "twit": "^2.2.11",
